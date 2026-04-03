@@ -1,0 +1,24 @@
+[
+  {
+    "id": "001",
+    "slug": "blue-crochet-bag",
+    "name": "Blue Crochet Bag",
+    "price": 850,
+    "currency": "NPR",
+    "description": "Handmade with 100% cotton yarn. Perfect for daily use.",
+    "category": "bag",
+    "image": "/images/blue-bag.jpg",
+    "inStock": true
+  },
+  {
+    "id": "002",
+    "slug": "pink-knit-scarf",
+    "name": "Pink Knit Scarf",
+    "price": 650,
+    "currency": "NPR",
+    "description": "Soft and warm, handknitted with love.",
+    "category": "scarf",
+    "image": "/images/pink-scarf.jpg",
+    "inStock": true
+  }
+]
