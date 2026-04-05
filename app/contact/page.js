@@ -92,6 +92,7 @@ export default function ContactPage() {
                   value={formData.name}
                   onChange={handleChange}
                   required
+                  style={{ color: '#1a1a1a', backgroundColor: '#FFF8F0' }}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
                   placeholder="Your full name"
                 />
@@ -109,6 +110,7 @@ export default function ContactPage() {
                   value={formData.email}
                   onChange={handleChange}
                   required
+                  style={{ color: '#1a1a1a', backgroundColor: '#FFF8F0' }}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
                   placeholder="your@email.com"
                 />
@@ -125,6 +127,7 @@ export default function ContactPage() {
                   name="phone"
                   value={formData.phone}
                   onChange={handleChange}
+                  style={{ color: '#1a1a1a', backgroundColor: '#FFF8F0' }}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
                   placeholder="+977 9000000000"
                 />
@@ -142,6 +145,7 @@ export default function ContactPage() {
                   value={formData.subject}
                   onChange={handleChange}
                   required
+                  style={{ color: '#1a1a1a', backgroundColor: '#FFF8F0' }}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
                   placeholder="How can we help?"
                 />
@@ -159,6 +163,7 @@ export default function ContactPage() {
                   onChange={handleChange}
                   required
                   rows="6"
+                  style={{ color: '#1a1a1a', backgroundColor: '#FFF8F0' }}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500 resize-none"
                   placeholder="Your message here..."
                 />

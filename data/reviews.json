@@ -1,0 +1,47 @@
+[
+  {
+    "id": "001",
+    "name": "Priya Sharma",
+    "productName": "Blue Crochet Bag",
+    "rating": 5,
+    "comment": "Absolutely beautiful! The stitching is so precise and the quality of the cotton yarn is incredible. Perfect for my daily errands. Highly recommend!",
+    "verified": true,
+    "date": "2026-03-28"
+  },
+  {
+    "id": "002",
+    "name": "Rajesh Patel",
+    "productName": "Pink Knit Scarf",
+    "rating": 4,
+    "comment": "Great scarf! Arrived faster than expected. Very soft and warm. The pink color is exactly as shown in the photos. Will definitely buy again.",
+    "verified": true,
+    "date": "2026-03-22"
+  },
+  {
+    "id": "003",
+    "name": "Anika Gupta",
+    "productName": "Blue Crochet Bag",
+    "rating": 5,
+    "comment": "I gifted this to my sister and she absolutely loves it! The handmade details really show the care put into each piece. Excellent quality and worth every rupee.",
+    "verified": true,
+    "date": "2026-02-15"
+  },
+  {
+    "id": "004",
+    "name": "Deepak Kumar",
+    "productName": "Pink Knit Scarf",
+    "rating": 4,
+    "comment": "The yarn quality is outstanding. It's soft, durable, and maintains its shape well. Perfect for the upcoming winter season!",
+    "verified": true,
+    "date": "2026-02-08"
+  },
+  {
+    "id": "005",
+    "name": "Meera Singh",
+    "productName": "Blue Crochet Bag",
+    "rating": 5,
+    "comment": "Delivery was incredibly fast and the packaging was beautiful. The bag is perfect - sturdy, well-made, and such a lovely shade of blue!",
+    "verified": true,
+    "date": "2026-01-30"
+  }
+]

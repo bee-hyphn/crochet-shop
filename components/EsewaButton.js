@@ -6,8 +6,8 @@ export default function EsewaButton({ product, onSuccess }) {
       product_code: product.id,
       product_service_charge: "0",
       product_delivery_charge: "0",
-      success_url: `${window.location.origin}/success`,
-      failure_url: `${window.location.origin}/failure`,
+      success_url: "https://crochet-shop-b.vercel.app/success",
+      failure_url: "https://crochet-shop-b.vercel.app/failure",
       signed_field_names: "total_amount,transaction_uuid,product_code"
     };
     
