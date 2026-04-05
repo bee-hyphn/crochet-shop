@@ -126,7 +126,7 @@ export default function ContactPage() {
                   value={formData.phone}
                   onChange={handleChange}
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-orange-500"
-                  placeholder="+977 98XXXXXXXX"
+                  placeholder="+977 9000000000"
                 />
               </div>
 
@@ -184,15 +184,15 @@ export default function ContactPage() {
               <div className="space-y-4">
                 <div>
                   <p className="font-semibold text-gray-800 mb-1">📍 Address</p>
-                  <p className="text-gray-600">Kathmandu, Nepal</p>
+                  <p className="text-gray-600">Rupandehi, Lumbini, Nepal</p>
                 </div>
                 <div>
                   <p className="font-semibold text-gray-800 mb-1">📞 Phone</p>
-                  <p className="text-gray-600">+977 98XXXXXXXX</p>
+                  <p className="text-gray-600">+977 9742874592</p>
                 </div>
                 <div>
                   <p className="font-semibold text-gray-800 mb-1">✉️ Email</p>
-                  <p className="text-gray-600">info@crochetshop.com</p>
+                  <p className="text-gray-600">becuriousbi@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -202,9 +202,7 @@ export default function ContactPage() {
                 Business Hours
               </h3>
               <div className="space-y-2 text-gray-600">
-                <p><span className="font-semibold">Monday - Friday:</span> 9:00 AM - 6:00 PM</p>
-                <p><span className="font-semibold">Saturday:</span> 10:00 AM - 4:00 PM</p>
-                <p><span className="font-semibold">Sunday:</span> Closed</p>
+                <p><span className="font-semibold">Everyday:</span> 12:00 PM - 9:00 PM</p>
               </div>
             </div>
 
