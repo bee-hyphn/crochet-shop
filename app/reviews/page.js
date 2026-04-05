@@ -26,7 +26,7 @@ export default function ReviewsPage() {
 
     try {
       // Submit to Formspree
-      const response = await fetch('https://formspree.io/f/xdkozzne', {
+      const response = await fetch('https://formspree.io/f/xpqooboa', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
