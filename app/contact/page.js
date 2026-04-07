@@ -216,13 +216,13 @@ export default function ContactPage() {
                 Follow Us
               </h3>
               <div className="flex gap-4">
-                <a href="#" className="inline-block p-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+                <a href="https://www.facebook.com/profile.php?id=61573346668857" className="inline-block p-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
                   f
                 </a>
-                <a href="#" className="inline-block p-2 bg-pink-600 text-white rounded-lg hover:bg-pink-700 transition">
+                <a href="https://www.youtube.com/@Curiousbee-6" className="inline-block p-2 bg-pink-600 text-white rounded-lg hover:bg-pink-700 transition">
                   📷
                 </a>
-                <a href="#" className="inline-block p-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition">
+                <a href="https://api.whatsapp.com/send/?phone=%2B9779742874592&text&type=phone_number&app_absent=0" className="inline-block p-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition">
                   💬
                 </a>
               </div>
