@@ -7,7 +7,8 @@ export default function Footer() {
         <div className="mt-4 flex justify-center gap-4">
           <a href="https://www.facebook.com/profile.php?id=61573346668857" className="hover:text-orange-500 transition">Facebook</a>
           <a href="#" className="hover:text-orange-500 transition">Instagram</a>
-          <a href="#" className="hover:text-orange-500 transition">WhatsApp</a>
+          <a
+href="https://api.whatsapp.com/send/?phone=%2B9779742874592&text&type=phone_number&app_absent=0" className="inline-block p-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition">WhatsApp</a>
         </div>
       </div>
     </footer>
